@@ -1,4 +1,8 @@
 10
 10
 dev
+<<<<<<< HEAD
 master
+=======
+dev again
+>>>>>>> dev
