@@ -4,10 +4,6 @@ dev
 dev again
 fix issue-101 bug
 dev again
-<<<<<<< Updated upstream
 dev while bug issue-101.
-
-=======
-dev while bug issue-101
 stash
->>>>>>> Stashed changes
+
