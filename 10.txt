@@ -1,9 +1,8 @@
 10
 10
 dev
-<<<<<<< HEAD
-master
-=======
 dev again
->>>>>>> dev
 fix issue-101 bug
+dev again
+dev while bug issue-101
+
